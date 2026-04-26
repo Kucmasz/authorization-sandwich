@@ -1,0 +1,4 @@
+../Middlewares/ST/STSELib/services/stsafel/stsafel_data_partition.c:25:19:stsafel_read_data_zone	136	static
+../Middlewares/ST/STSELib/services/stsafel/stsafel_data_partition.c:65:19:stsafel_update_data_zone	128	static
+../Middlewares/ST/STSELib/services/stsafel/stsafel_data_partition.c:104:19:stsafel_read_counter_zone	152	static
+../Middlewares/ST/STSELib/services/stsafel/stsafel_data_partition.c:154:19:stsafel_decrement_counter_zone	160	static

@@ -1,0 +1,4 @@
+../Middlewares/ST/STSELib/services/stsafel/stsafel_frame_transfer.c:24:19:stsafel_frame_transmit	56	static
+../Middlewares/ST/STSELib/services/stsafel/stsafel_frame_transfer.c:101:19:stsafel_i2c_frame_receive	104	dynamic
+../Middlewares/ST/STSELib/services/stsafel/stsafel_frame_transfer.c:418:19:stsafel_frame_raw_transfer	32	static
+../Middlewares/ST/STSELib/services/stsafel/stsafel_frame_transfer.c:459:19:stsafel_frame_transfer	32	static

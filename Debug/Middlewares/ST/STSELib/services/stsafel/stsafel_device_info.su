@@ -1,0 +1,4 @@
+../Middlewares/ST/STSELib/services/stsafel/stsafel_device_info.c:25:19:stsafel_get_device_UID	24	static
+../Middlewares/ST/STSELib/services/stsafel/stsafel_device_info.c:37:19:stsafel_get_device_traceability	24	static
+../Middlewares/ST/STSELib/services/stsafel/stsafel_device_info.c:49:19:stsafel_get_data	112	static
+../Middlewares/ST/STSELib/services/stsafel/stsafel_device_info.c:85:19:stsafel_put_data	104	static
